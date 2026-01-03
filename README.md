@@ -67,7 +67,9 @@ consumo-energia-argentina/
 │   └── analisis_consumo_energia.ipynb
 ├── data/
 │   ├── raw/
+│        └── consumo_energia_fuente.xlsx
 │   └── processed/
+│        └── consumo_energia_limpio.xlsx
 └── images/
     ├── consumo_total.png
     ├── sectores_porcentaje.png
