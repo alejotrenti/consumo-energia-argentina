@@ -38,12 +38,12 @@ Análisis exploratorio (EDA) del consumo de energía eléctrica en Argentina ent
 ## 📊 Gráficos Principales
 | Gráfico | Descripción | Archivo |
 |---------|-------------|---------|
-| Consumo Total 2005-2024 | Evolución temporal del consumo | `images/consumo_total.png` |
-| Distribución por Sectores | Participación porcentual anual | `images/sectores_porcentaje.png` |
-| Consumo Per Cápita | Evolución del indicador demográfico | `images/consumo_per_capita.png` |
-| Comparativa Sectorial | Consumo absoluto por sector | `images/sectores_comparativa.png` |
-| Años Extremos | Identificación de valores atípicos | `images/anios_extremos.png` |
-| Predicción de consumo | Posible evolución mediante tendencia | `images/prediccion.png` |
+| Consumo Total 2005-2024 | Evolución temporal del consumo | `consumo_total.png` |
+| Distribución por Sectores | Participación porcentual anual | `sectores_porcentaje.png` |
+| Consumo Per Cápita | Evolución del indicador demográfico | `consumo_per_capita.png` |
+| Comparativa Sectorial | Consumo absoluto por sector | `sectores_comparativa.png` |
+| Años Extremos | Identificación de valores atípicos | `anios_extremos.png` |
+| Predicción de consumo | Posible evolución mediante tendencia | `prediccion.png` |
 
 ## 🛠️ Tecnologías
 - Python 3.8+
@@ -53,7 +53,7 @@ Análisis exploratorio (EDA) del consumo de energía eléctrica en Argentina ent
 
 ## 🚀 Ejecución
 ```bash
-git clone https://github.com/tu-usuario/consumo-energia-argentina.git
+git clone https://github.com/alejotrenti/consumo-energia-argentina.git
 cd consumo-energia-argentina
 ```
 Abrir `notebook/analisis_consumo_energia.ipynb` y ejecutar celdas en orden.
@@ -73,6 +73,7 @@ consumo-energia-argentina/
     ├── sectores_porcentaje.png
     ├── consumo_per_capita.png
     ├── sectores_comparativa.png
+    ├── prediccion.png
     └── anios_extremos.png
 ```
 
@@ -80,5 +81,3 @@ consumo-energia-argentina/
 **Alejo** - Estudiante de Ciencia de Datos - Argentina
 
 ---
-
-*Última actualización: Abril 2024*
