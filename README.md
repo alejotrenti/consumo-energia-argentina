@@ -35,15 +35,15 @@ Análisis exploratorio (EDA) del consumo de energía eléctrica en Argentina ent
 3. Aumento del consumo per cápita
 4. Los datos reflejan ciclos económicos y sociales
 
-## 📊 Gráficos Principales
-| Gráfico | Descripción | Archivo |
-|---------|-------------|---------|
-| Consumo Total 2005-2024 | Evolución temporal del consumo | `consumo_total.png` |
-| Distribución por Sectores | Participación porcentual anual | `sectores_porcentaje.png` |
-| Consumo Per Cápita | Evolución del indicador demográfico | `consumo_per_capita.png` |
-| Comparativa Sectorial | Consumo absoluto por sector | `sectores_comparativa.png` |
-| Años Extremos | Identificación de valores atípicos | `anios_extremos.png` |
-| Predicción de consumo | Posible evolución mediante tendencia | `prediccion.png` |
+📊 Gráficos Principales
+| Gráfico | Descripción | Visualización |
+|---------|-------------|---------------|
+| Consumo Total 2005-2024 | Evolución temporal del consumo | ![Gráfico Consumo](images/consumo_total.png) |
+| Distribución por Sectores | Participación porcentual anual | ![Distribución Sectorial](images/sectores_porcentaje.png) |
+| Consumo Per Cápita | Evolución del indicador demográfico | ![Consumo Per Cápita](images/consumo_per_capita.png) |
+| Comparativa Sectorial | Consumo absoluto por sector | ![Comparativa Sectorial](images/sectores_comparativa.png) |
+| Años Extremos | Identificación de valores atípicos | ![Años Extremos](images/anios_extremos.png) |
+| Predicción de consumo | Posible evolución mediante tendencia | ![Predicción](images/prediccion.png) |
 
 ## 🛠️ Tecnologías
 - Python 3.8+
