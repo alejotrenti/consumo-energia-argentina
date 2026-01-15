@@ -45,11 +45,25 @@ Análisis exploratorio (EDA) del consumo de energía eléctrica en Argentina ent
 | Años Extremos | Identificación de valores atípicos | ![Años Extremos](images/anios_extremos.png) |
 | Predicción de consumo | Posible evolución mediante tendencia | ![Predicción](images/prediccion.png) |
 
+
+---
+
+## Dashboard Interactivo – Consumo de Energía Eléctrica en Argentina (2005–2024)
+
+**Análisis exploratorio del consumo eléctrico**
+Dashboard desarrollado en Power BI que presenta un análisis exploratorio (EDA) del consumo de energía eléctrica en Argentina entre 2005 y 2024, utilizando datos oficiales de CAMMESA e INDEC.  
+Incluye visualizaciones de tendencias temporales, distribución del consumo por sectores y evolución del consumo per cápita.
+
+![ConsumoPowerBi](images/consumo-powerbi.png)
+
+
+
 ## 🛠️ Tecnologías
 - Python 3.8+
 - Pandas, NumPy
 - Matplotlib
 - Google Colab / Jupyter
+- Microsoft Power-Bi
 
 ## 🚀 Ejecución
 ```bash
